@@ -12,7 +12,7 @@ with open('input.txt') as f:
 # and store it in a variable
 n = inputList.pop(0)
 
-# start adding two numbers at a time
+# start finding the min of three numbers at a time
 while inputList:
 	x = inputList.pop(0)
 	y = inputList.pop(0)
