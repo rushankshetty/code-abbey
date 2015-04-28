@@ -1,3 +1,5 @@
+#!/usr/bin/env python 
+
 # create an empty list
 inputList = []
 
